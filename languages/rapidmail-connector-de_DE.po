@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-02-04 15:22+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-rapidmail-connector-newsletter-settings-page.php:33
+msgid "Subscribe to our newsletter"
+msgstr "Zu unserem Newsletter anmelden"
+
+#: admin/class-rapidmail-connector-settings-page.php:78
+msgid "URL used for connecting to Rapidmail"
+msgstr "URL für die Verbindung mit rapidmail"
+
+#: admin/class-rapidmail-connector-settings-page.php:85
+msgid "URL to overview of integrations"
+msgstr "URL zur Integrationen-Übersicht"
+
+#: admin/class-rapidmail-connector-settings-page.php:101
+msgid "The settings are not complete."
+msgstr "Die Einstellungen sind nicht vollständig."
+
+#: admin/partials/rapidmail-connector-admin-connection-display.php:21 admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:7
+msgid "Advanced plugin settings"
+msgstr "Erweiterte Plugin-Einstellungen"
+
+#: admin/partials/rapidmail-connector-admin-connection-display.php:29
+msgid "Create a new connection to rapidmail"
+msgstr "Neue Verbindung mit rapidmail erstellen"
+
+#: admin/partials/rapidmail-connector-admin-connection-display.php:31
+msgid "or"
+msgstr "oder"
+
+#: admin/partials/rapidmail-connector-admin-connection-display.php:33
+msgid "Log in to rapidmail"
+msgstr "Bei rapidmail einloggen"
+
+#: admin/partials/rapidmail-connector-admin-connection-display.php:36
+msgid "API settings (In case you need to setup your shop manually in rapidmail)"
+msgstr "API-Einstellungen (falls Sie Ihren Shop manuell bei rapidmail einrichten müssen)"
+
+#: admin/partials/rapidmail-connector-admin-connection-display.php:38
+msgid "Access key ID"
+msgstr "Access key ID"
+
+#: admin/partials/rapidmail-connector-admin-connection-display.php:42
+msgid "Secret access key"
+msgstr "Secret access key"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:11
+msgid "Newsletter subscription Opt-In"
+msgstr "Einwilligung zur Newsletter-Anmeldung"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:28
+msgid "Show a Newsletter Opt-In checkbox"
+msgstr "Einwilligung zum Newsletter als Checkbox anzeigen"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:31
+msgid ""
+"This option enables your customers to subscribe to you newsletter. Once imported in rapidmail, contacts that opted-in for receiving newsletters will "
+"automatically be tagged in your rapidmail subscriber list."
+msgstr ""
+"Mit dieser Option können sich Kunden für Ihren Newsletter anmelden. Nach dem Import werden Kontakte, die sich für Ihren Newsletter angemeldet haben, in Ihrer "
+"Empfängerliste automatisch mit dem entsprechenden Stichwort markiert."
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:46
+msgid "Opt-In checkbox position"
+msgstr "Positionierung der Checkbox zur Einwilligung"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:57
+msgid "Display in the new account register form, after the email address field"
+msgstr "Anzeige im Formular zur Registrierung, unter dem Feld für die E-Mailadresse"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:60
+msgid "Display on the checkout page, before the Order button"
+msgstr "Anzeige in der Bestellübersicht, vor dem Button zur Bestellung"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:62
+msgid "Display on the checkout page, after the Billing information"
+msgstr "Anzeige auf dem Weg zur Bestellseite, unter den Angaben zur Rechnung"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:79
+msgid "Opt-In checkbox label"
+msgstr "Text der Checkbox zur Einwilligung"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:88
+msgid "Leave the Field blank to use language translation files (.po, .mo), translating the string: \"Subscribe to our newsletter\"."
+msgstr "Feld nicht beschriften, stattdessen eine Übersetzungsdatei (.po, .mo) für \"Subscribe to our newsletter\" zu hinterlegen."
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:98
+msgid "Opt-In checkbox default status"
+msgstr "Standardeinstellung der Checkbox zur Einwilligung"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:106
+msgid "Unchecked"
+msgstr "Ohne Häkchen"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:112
+msgid "Checked"
+msgstr "Mit Häkchen"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:121
+msgid "Back"
+msgstr "Zurück"
+
+#: admin/partials/rapidmail-connector-admin-newsletter-settings-display.php:123
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/class-rapidmail-connector.php:338
+msgid "Sorry, you cannot list resources."
+msgstr "Tut mir leid, Sie können keine Ressourcen auflisten."
+
+msgid "rapidmail: Newsletter & E-Mail Marketing for WooCommerce"
+msgstr "rapidmail: Newsletter & E-Mail Marketing für WooCommerce"
+
+msgid "Create and send newsletters for customers of your WooCommerce online store with ease - and boost sales! Contact data is automatically synchronized."
+msgstr "Einfach Newsletter für Kunden Ihres WooCommerce Onlineshops erstellen, versenden - und so mehr verkaufen! Kontaktdaten werden automatisch synchronisiert."
